@@ -1,0 +1,3 @@
+2.4寸、2.8寸、3.5寸  use   ESP32 Display 3.5 inch V1.0 - LX.pdf
+
+4.3寸、5.0寸、7.0寸  use  ESP32 Display 4.3 inch V1.0.pdf

@@ -1,0 +1,2 @@
+2.4 inches, 2.8 inches, 3.5 inches, use small size code
+4.2 inches, 5.0 inches, 7.0 inches, use the large size code
